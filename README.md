@@ -1,6 +1,6 @@
 # Measuring Human Capital Using Global Learning Data
 
-This repository contains the data and code underlying the analysis presented in the paper "*Measuring Human Capital Using Global Learning Data*" published in *Nature*. **Please cite all references to the data and analysis as: Angrist, Noam, Simeon Djankov, Pinelopi K. Goldberg, and Harry A. Patrinos. "Measuring Human Capital Using Global Learning Data." Nature (2021).**
+This repository contains the data and code underlying the analysis presented in the paper "*Measuring Human Capital Using Global Learning Data*" published in *Nature*. Please cite all references to the data and analysis as: **Angrist, Noam, Simeon Djankov, Pinelopi K. Goldberg, and Harry A. Patrinos. "Measuring Human Capital Using Global Learning Data." Nature (2021).**
 
 # The Harmonized Learning Outcomes Database
 
