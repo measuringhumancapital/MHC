@@ -6,7 +6,7 @@ This repository contains the analysis presented in the paper "*Measuring Human C
 
 Learning metrics that are comparable for countries globally are necessary to understand and track the formation of human capital. The increasing use of international achievement tests is an important step in this direction. However, such tests are administered primarily in high-income countries, limiting our ability to analyze learning patterns in low- and middle-income countries that may have the most to gain from the formation of human capital. The Harmonized Learning Outcomes (HLO) database bridges this gap by constructing a globally comparable database of 164 countries from 2000 to 2017. The data represent 98% of the global population and developing economies comprise two-thirds of the included countries. The data is publicly available and will be updated regularly.
 
-The HLO database is available on the World Bank Data Catalog: https://datacatalog.worldbank.org/dataset/harmonized-learning-outcomes-hlo-database
+[The HLO database is available on the World Bank Data Catalog here](https://datacatalog.worldbank.org/dataset/harmonized-learning-outcomes-hlo-database)
 
 # Accompanying Paper, Analysis, and Technical Details
 
